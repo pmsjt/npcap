@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "npf", "..\npf\npf\npf_2017.vcxproj", "{3556F5BC-F8EC-437E-93E3-7CF2DC63FF61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "npf", "..\npf\npf\npf.vcxproj", "{3556F5BC-F8EC-437E-93E3-7CF2DC63FF61}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "npf Package", "..\npf\npf Package\npf Package_vs2017.vcxproj", "{1A6BC1F1-F16A-4653-B787-FAF5A0E50229}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "npf Package", "..\npf\npf Package\npf Package.vcxproj", "{1A6BC1F1-F16A-4653-B787-FAF5A0E50229}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Packet", "..\Dll\Project\Packet_vs2017.vcxproj", "{17D62EEB-EABF-4D94-B1FF-BCDAAFA7DA52}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Packet", "..\Dll\Project\Packet.vcxproj", "{17D62EEB-EABF-4D94-B1FF-BCDAAFA7DA52}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NpcapHelper", "..\Helper\NpcapHelper\NpcapHelper_vs2017.vcxproj", "{917BE5CC-CE5E-4476-A9E7-3B1F96E9FC43}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NpcapHelper", "..\Helper\NpcapHelper\NpcapHelper.vcxproj", "{917BE5CC-CE5E-4476-A9E7-3B1F96E9FC43}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WlanHelper", "..\WlanHelper\WlanHelper\WlanHelper_vs2017.vcxproj", "{044CB4DC-827D-4134-B14B-DE114E884BB9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WlanHelper", "..\WlanHelper\WlanHelper\WlanHelper.vcxproj", "{044CB4DC-827D-4134-B14B-DE114E884BB9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NPFInstall", "..\NPFInstall\NPFInstall\NPFInstall_vs2017.vcxproj", "{5D8A2717-4F35-4402-B868-45612D27291B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NPFInstall", "..\NPFInstall\NPFInstall\NPFInstall.vcxproj", "{5D8A2717-4F35-4402-B868-45612D27291B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
